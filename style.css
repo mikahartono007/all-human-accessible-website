@@ -1,0 +1,58 @@
+body {
+    background-color: antiquewhite;
+}
+
+a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(104, 61, 61);
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(104, 61, 61);
+}
+
+h1 {
+    color: rgb(139, 208, 35);
+    position: static;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 1em;
+}
+
+h2 {
+    color: rgb(104, 61, 61);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Veldverkenner{
+    padding: 1em;
+}
+
+.plattegrond{
+    width: 350px;
+    height: auto;
+    border-radius: 1rem;
+}
+
+.logo{
+    width:40px;
+    height:auto;
+}
+
+.logo-section{
+    display:flex;
+}
+
+.naar-veld{
+    border-radius: 5em;
+    border: 2px solid rgb(104, 61, 61);
+    padding: .5rem;
+    display: inline-block;
+    margin-top: 15px;
+    text-decoration: none;
+    color: rgb(104, 61, 61);
+}
+
+.Nieuws{
+    padding: 1em;
+}
