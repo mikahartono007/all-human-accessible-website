@@ -29,7 +29,7 @@ h3{
 .top{
     padding-left: 1rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 50px;
+    font-size: 75px;
     color: antiquewhite;
     -webkit-text-stroke: 2px rgb(104, 61, 61);
 }
@@ -37,6 +37,12 @@ h3{
 .Zones{
     padding-left: 1em;
     padding-bottom: 7rem;
+}
+
+.Zones h2{
+    border-radius: 1em;
+    border: 2px solid rgb(104, 61, 61);
+    padding: .5rem;
 }
 
 .Zones ul{
